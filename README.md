@@ -13,7 +13,7 @@ class Pitogyro {
 ```
 ![A simple class association](./assets/association01.png)
 
-<br>
+
 <br>
 <br>
 
