@@ -12,3 +12,11 @@ class Pitogyro {
 };
 ```
 ![A simple class association](./assets/association01.png)
+
+
+### Dependency
+
+```
+// ...
+```
+![A simple class dependency]()
