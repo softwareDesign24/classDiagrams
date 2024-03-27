@@ -11,3 +11,4 @@ class Pitogyro {
 	// more attributes
 };
 ```
+![A simple class association](./assets/association01.png)
