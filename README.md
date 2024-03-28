@@ -10,6 +10,7 @@ class Pitogyro {
 	Patates p1;
 	// more attributes
 };
+
 ```cpp
 ![A simple class association](./assets/association01.png)
 
@@ -50,4 +51,5 @@ public:
 	}
 };
 ```
+
 ![A simple class dependency](./assets/dependency01.png)
