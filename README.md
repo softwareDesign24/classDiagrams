@@ -41,13 +41,10 @@ private:
 
 public:
 	bool spicy_level(Tzatziki h) {
-		
 		bool result = false;
-		
 		if (h.reveal_garlic_level() > 3) {
 			return true;
 		}
-		
 		return result;
 	}
 };
