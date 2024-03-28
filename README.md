@@ -1,7 +1,7 @@
 # Introduction to UML Class Diagrams
 ### Association
 
-```cpp #1
+```cpp
 class Patates {
 	// fried
 };
