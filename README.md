@@ -20,6 +20,34 @@ class Pitogyro {
 ### Dependency
 
 ```
-// ...
+class Tzatziki {
+private:	
+	int garlic;
+	// more attributes
+
+public:
+	int reveal_garlic_level() {
+		return garlic;
+	}
+	// more methods
+};
+
+class Pitogyro {
+
+private:
+	// attributes
+
+public:
+	bool spicy_level(Tzatziki h) {
+		
+		bool result = false;
+		
+		if (h.reveal_garlic_level() > 3) {
+			return true;
+		}
+		
+		return result;
+	}
+};
 ```
 ![A simple class dependency](./assets/dependency01.png)
