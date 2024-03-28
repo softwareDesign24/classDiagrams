@@ -2,7 +2,7 @@
 ### Association
 
 ```cpp
-class Patates {
+class <strong>Patates</strong> {
 	// fried
 };
 
