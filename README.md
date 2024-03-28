@@ -7,7 +7,7 @@ class Patates {
 };
 
 class Pitogyro {
-	Patates p1;
+	**Patates** p1;
 	// more attributes
 };
 ```
