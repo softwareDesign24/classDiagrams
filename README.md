@@ -33,8 +33,9 @@ public:
 	// more methods
 };
 
-class Pitogyro {
 
+
+class Pitogyro {
 private:
 	// attributes
 
