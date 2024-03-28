@@ -1,7 +1,7 @@
 # Introduction to UML Class Diagrams
 ### Association
 
-```
+```cpp
 class Patates {
 	// fried
 };
@@ -11,7 +11,7 @@ class Pitogyro {
 	// more attributes
 };
 
-```cpp
+```
 ![A simple class association](./assets/association01.png)
 
 
