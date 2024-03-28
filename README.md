@@ -22,4 +22,4 @@ class Pitogyro {
 ```
 // ...
 ```
-![A simple class dependency]()
+![A simple class dependency](./assets/dependency01.png)
