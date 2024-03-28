@@ -10,7 +10,7 @@ class Pitogyro {
 	Patates p1;
 	// more attributes
 };
-```
+```cpp
 ![A simple class association](./assets/association01.png)
 
 
@@ -19,7 +19,7 @@ class Pitogyro {
 
 ### Dependency
 
-```
+```cpp
 class Tzatziki {
 private:	
 	int garlic;
