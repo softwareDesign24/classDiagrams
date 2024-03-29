@@ -114,16 +114,16 @@ class Drone
 int main(void)
 {
     // Create a Satellite object
-    Satellite satellite(12345, 67890, 10000);
+    Satellite sat1(12345, 67890, 10000);
 
     // Create a Drone object
     Drone drone(54321, 98765, 5000);
 
     // Set the heat level of the satellite
-    satellite.setHeatLevel(150);
+    sat1.setHeatLevel(150);
 
     // Scan the location for fire using the drone
-    drone.ScanLocationForFire(&satellite);
+    drone.ScanLocationForFire(&sat1);
 
     return 0;
 }
