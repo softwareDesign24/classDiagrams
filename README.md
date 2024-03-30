@@ -61,10 +61,6 @@ public:
 ```cpp
 // Base class
 class Mammal {
-protected:
-    int age;
-    // more atributes
-
 public:
     string sound() { cout << "..."; };
     // more methods
@@ -72,9 +68,6 @@ public:
 
 // Derived class 01
 class Lion : public Mammal {
-protected:
-    // more attributes
-
 public:
     void sound() { cout << "Grarrgraaagrgr\n"; };
     // more methods
@@ -82,9 +75,6 @@ public:
 
 // Derived class 02
 class Human : public Mammal {
-protected:
-    // more attributes
-
 public:
     void sound() { cout << "Let's code!\n"; };
     // more methods
@@ -92,9 +82,6 @@ public:
 
 // Derived class 03
 class Sheep : public Mammal {
-protected:
-    // more attributes
-
 public:
     void sound() { cout << "Mpeeee\n"; };
     // more methods
