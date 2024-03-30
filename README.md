@@ -62,4 +62,4 @@ public:
 // ....
 
 ```
-![A simple class association](./assets/inheritance01.png)
+![A simple class association](./assets/inheritance02.png)
