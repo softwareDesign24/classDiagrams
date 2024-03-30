@@ -1,5 +1,5 @@
 # Introduction to UML Class Diagrams
-### Association
+## Association
 
 ![A simple class association](./assets/association01.png)
 
@@ -20,7 +20,7 @@ class Pitogyro {
 <br>
 <br>
 
-### Dependency
+## Dependency
 
 ![A simple class dependency](./assets/dependency01.png)
 
@@ -60,7 +60,7 @@ public:
 <br>
 <br>
 
-### Inheritance
+## Inheritance
 
 ![A simple class association](./assets/inheritance02.png)
 
