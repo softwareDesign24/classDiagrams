@@ -62,7 +62,7 @@ public:
 // Base class
 class Mammal {
 public:
-    string sound() { cout << "..."; };
+    void sound() { cout << "..."; };
     // more methods
 };
 
