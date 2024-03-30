@@ -70,21 +70,21 @@ public:
 class Lion : public Mammal {
 public:
     void sound() { cout << "Grarrgraaagrgr\n"; };
-    // more methods
+    // more 🦁 methods
 };
 
 // Derived class 02
 class Human : public Mammal {
 public:
     void sound() { cout << "Let's code!\n"; };
-    // more methods
+    // more 👦 methods
 };
 
 // Derived class 03
 class Sheep : public Mammal {
 public:
     void sound() { cout << "Mpeeee\n"; };
-    // more methods
+    // more 🐑 methods
 };
 
 ```
