@@ -1,6 +1,8 @@
 # Introduction to UML Class Diagrams
 ### Association
 
+![A simple class association](./assets/association01.png)
+
 ```cpp
 class Patates {
 	// fried
@@ -12,13 +14,15 @@ class Pitogyro {
 };
 
 ```
-![A simple class association](./assets/association01.png)
+
 
 
 <br>
 <br>
 
 ### Dependency
+
+![A simple class dependency](./assets/dependency01.png)
 
 ```cpp
 class Tzatziki {
@@ -50,13 +54,15 @@ public:
 };
 ```
 
-![A simple class dependency](./assets/dependency01.png)
+
 
 
 <br>
 <br>
 
 ### Inheritance
+
+![A simple class association](./assets/inheritance02.png)
 
 ```cpp
 // Base class
@@ -88,4 +94,3 @@ public:
 };
 
 ```
-![A simple class association](./assets/inheritance02.png)
