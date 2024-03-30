@@ -1,4 +1,8 @@
 # Introduction to UML Class Diagrams
+
+<br>
+<br>
+
 ## Association
 
 ![A simple class association](./assets/association01.png)
@@ -14,7 +18,6 @@ class Pitogyro {
 };
 
 ```
-
 
 
 <br>
@@ -53,8 +56,6 @@ public:
 	}
 };
 ```
-
-
 
 
 <br>
