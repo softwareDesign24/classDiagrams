@@ -51,3 +51,15 @@ public:
 ```
 
 ![A simple class dependency](./assets/dependency01.png)
+
+
+<br>
+<br>
+
+### Inheritance
+
+```cpp
+// ....
+
+```
+![A simple class association](./assets/inheritance01.png)
