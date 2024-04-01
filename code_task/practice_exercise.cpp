@@ -5,6 +5,10 @@
         1115202000072
 */
 
+class Drone;
+class FireScanner;
+class Satelite;
+
 struct cordinates{
     float x_axis;
     float y_axis;
@@ -18,7 +22,7 @@ class Drone {
 class FireScanner {
     public:
     cordinates get_geolocation (Satelite s) {
-        s.give_cordinates();
+        return s.give_cordinates();
     }
 };
 
