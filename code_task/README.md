@@ -6,4 +6,3 @@
 - [ ] **Write** the **source code** that implements the diagram.
 - [ ] **Fork** the repo, **add** here the file with your source code, and send a **pull request**!
 - [ ] The source code should include your IDs in the comments.
-
