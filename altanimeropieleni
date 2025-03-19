@@ -1,0 +1,43 @@
+#include <stdio.h>
+#include <string>
+
+class Drone {
+	FireScanner f1;
+    int color;
+};
+
+
+class Satellite {
+    private:	
+        char *id;
+        int date;
+    
+    public:
+        char* reveal_id() {
+            return id;
+        }
+
+        int get_date(){
+            return date;
+        }
+        
+    };
+    
+    
+    class FireScanner {
+    private:
+        int distance;
+    
+    public:
+        char* get_location(Satellite h) {
+                return h.reveal_id();
+        }
+
+        int get_date(Satellite h) {
+            return h.get_date();
+        }
+
+        int get_distance(){
+            return distance;
+        }
+    };
