@@ -1,0 +1,22 @@
+class satellite{
+    private:
+        int data;
+    public:
+        int geo_location_data(){
+            return data;
+        }
+}
+class FireScanner{
+    public:
+    bool distance(satellite s){
+        bool result=false;
+        if(s.geo_location_data()>1000){
+            return true;
+        }
+        return result;
+    }
+
+}
+class drone{
+     FireScanner f1;
+}
